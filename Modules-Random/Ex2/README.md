@@ -1,0 +1,1 @@
+Write a Python program to select a random element from a list, set, dictionary-value, and file from a directory.

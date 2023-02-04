@@ -1,0 +1,1 @@
+Write a Python program to generate a float between 0 and 1, inclusive and generate a random float within a specific range.
