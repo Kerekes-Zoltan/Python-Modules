@@ -1,0 +1,1 @@
+Write a Python program to configure rounding to round up and round down a given decimal value. Use decimal.Decimal

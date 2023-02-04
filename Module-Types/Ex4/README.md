@@ -1,0 +1,1 @@
+Write a Python program to check if a given value is compiled code or not. Also check if a given value is a module or not. Use types.CodeType, types.ModuleType()

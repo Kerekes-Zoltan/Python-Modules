@@ -1,0 +1,1 @@
+Write a Python program to skip the headers of a given CSV file. Use csv.reader

@@ -1,0 +1,1 @@
+Write a Python program to create a deep copy of a given list. Use copy.copy

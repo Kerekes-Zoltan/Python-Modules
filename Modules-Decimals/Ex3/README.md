@@ -1,0 +1,1 @@
+Write a Python program to round a decimal value to the nearest multiple of 0.10, unless already an exact multiple of 0.05. Use decimal.Decimal

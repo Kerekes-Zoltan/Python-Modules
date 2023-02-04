@@ -1,0 +1,1 @@
+Write a Python program that can be configured to round to the nearest - with ties going towards 0 and ties going away from 0. Use decimal.ROUND_HALF_DOWN, decimal.ROUND_HALF_UP

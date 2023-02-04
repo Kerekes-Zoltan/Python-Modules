@@ -1,0 +1,1 @@
+Write a Python program to check if a given function is a generator or not. Use types.GeneratorType()

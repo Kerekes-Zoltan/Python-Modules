@@ -1,0 +1,1 @@
+Write a Python program to construct a Decimal from a float and a Decimal from a string. Also represent the decimal value as a tuple. Use decimal.Decimal

@@ -1,0 +1,1 @@
+Write a Python program to configure the rounding to round to the floor, ceiling. Use decimal.ROUND_FLOOR, decimal.ROUND_CEILING

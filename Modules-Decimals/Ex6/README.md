@@ -1,0 +1,1 @@
+Write a Python program to configure rounding to round to the nearest integer, with ties going to the nearest even integer. Use decimal.ROUND_HALF_EVEN

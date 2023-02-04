@@ -1,0 +1,1 @@
+Write a Python program to display a given decimal value in scientific notation. Use decimal.Decimal

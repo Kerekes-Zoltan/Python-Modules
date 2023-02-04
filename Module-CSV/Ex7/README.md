@@ -1,0 +1,1 @@
+Write a Python program to write dictionaries and a list of dictionaries to a given CSV file. Use csv.reader

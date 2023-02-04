@@ -1,0 +1,1 @@
+Write a Python program to check if a given value is a method of a user-defined class. Use types.MethodType()
